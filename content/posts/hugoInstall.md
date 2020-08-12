@@ -24,7 +24,7 @@ type = "post"
 $ brew install hugo
 ```
 
-### サイトを作る
+### hugo サイトを作る
 
 適当なディレクトリで
 
